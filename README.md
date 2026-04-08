@@ -52,5 +52,5 @@ Total Points
 📸 Screenshots
 Add your dashboard screenshot below:
 https://github.com/Rohitttttt01/IPL-Dashboard/blob/main/IPL%20Dashboard%20ss.png
-Example:  
+Example: https://github.com/Rohitttttt01/IPL-Dashboard/blob/main/IPL%20Dashboard.pbit
 
