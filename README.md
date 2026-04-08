@@ -51,10 +51,6 @@ Total Points
 
 📸 Screenshots
 Add your dashboard screenshot below:
+https://github.com/Rohitttttt01/IPL-Dashboard/blob/main/IPL%20Dashboard%20ss.png
+Example:  
 
-)
-
-🚀 How to Use
-Download the .pbix file
-Open it in Power BI Desktop
-Use the Season slicer to explore different years and insights
